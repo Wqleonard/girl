@@ -3,10 +3,10 @@ spring:
     active: dev
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/dbgirl
+    url: jdbc:mysql://127.0.0.1:3306/dbgirl
     username: root
     password: root
   jpa:
     hibernate:
-      ddl-auto: create
+      ddl-auto: update
     show-sql: true
