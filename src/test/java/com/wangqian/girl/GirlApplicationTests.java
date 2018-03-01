@@ -1,4 +1,4 @@
-package com.wagnqian.girl;
+package com.wangqian.girl;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

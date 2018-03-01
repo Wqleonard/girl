@@ -1,4 +1,4 @@
-package com.wagnqian.girl;
+package com.wangqian.girl;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
